@@ -6,3 +6,4 @@ webdriver-manager
 =======
 webdriver-manager
 >>>>>>> 2c4dc46755f9cef904799dd9b9ae2d9af8a2287e
+tenacity
